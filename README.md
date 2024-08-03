@@ -1,5 +1,3 @@
-#install package
-  npm install
+#install package => npm install
 
-#run program
-  node index.js
+#run program => node index.js
