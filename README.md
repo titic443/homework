@@ -1,5 +1,5 @@
 #install package
-npm install
+  npm install
 
 #run program
-node index.js
+  node index.js
