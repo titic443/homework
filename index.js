@@ -60,7 +60,6 @@ class MaqeBot {
     findSteps(input, startIndex) {
         let steps = '';
         for (let i = startIndex + 1; i < input.length; i++) {
-            console.log(parseInt('w'));
             if (parseInt(input[i])) {
                 steps += input[i];
             }
